@@ -1,0 +1,25 @@
+{
+    "version": "0.3.6",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/m314dev/m314dl/releases/download/v0.3.6/m314dl_0.3.6_windows_amd64.zip",
+            "bin": [
+                "m314dl.exe"
+            ],
+            "hash": "284a5ea0626d68b237f1900803898c218f7d0333415f4db2601bc88334cf65cc"
+        },
+        "arm64": {
+            "url": "https://github.com/m314dev/m314dl/releases/download/v0.3.6/m314dl_0.3.6_windows_arm64.zip",
+            "bin": [
+                "m314dl.exe"
+            ],
+            "hash": "eea016edf87ce05017883f8f71fa652ac183d2aeb328827f9478c8dd8eaf4c84"
+        }
+    },
+    "homepage": "https://m314.dev",
+    "license": "MIT",
+    "description": "Fast HLS/DASH/MSS downloader with native CENC decryption",
+    "depends": [
+        "ffmpeg"
+    ]
+}
