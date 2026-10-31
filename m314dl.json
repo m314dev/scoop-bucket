@@ -1,19 +1,19 @@
 {
-    "version": "0.3.7",
+    "version": "0.3.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/m314dev/m314dl/releases/download/v0.3.7/m314dl_0.3.7_windows_amd64.zip",
+            "url": "https://github.com/m314dev/m314dl/releases/download/v0.3.8/m314dl_0.3.8_windows_amd64.zip",
             "bin": [
                 "m314dl.exe"
             ],
-            "hash": "d01ed6725b8718f38cded2e199ed1010915e9b53df23e2f9ae8c95126fca69e0"
+            "hash": "de8eb89a51cd4f72a2060d36f2595f65053b195e4c409fa5a3651b7bce8466fa"
         },
         "arm64": {
-            "url": "https://github.com/m314dev/m314dl/releases/download/v0.3.7/m314dl_0.3.7_windows_arm64.zip",
+            "url": "https://github.com/m314dev/m314dl/releases/download/v0.3.8/m314dl_0.3.8_windows_arm64.zip",
             "bin": [
                 "m314dl.exe"
             ],
-            "hash": "fb5c2bbf144e633c023f77f99ed51b7ec140d018764cd08aa75bf3b9c410a36a"
+            "hash": "a89b71eec0aa892ee7c41586d3880da6d75e05c34f478228ab8f76f2ee8c9137"
         }
     },
     "homepage": "https://m314.dev",
