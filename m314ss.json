@@ -1,0 +1,25 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/m314dev/m314ss/releases/download/v0.1.0/m314ss_0.1.0_windows_amd64.zip",
+            "bin": [
+                "m314ss.exe"
+            ],
+            "hash": "0236360d4cbb7719b736e42bb41e7d39ffc54e8d11edd7a8c2b4604838bfc7b7"
+        },
+        "arm64": {
+            "url": "https://github.com/m314dev/m314ss/releases/download/v0.1.0/m314ss_0.1.0_windows_arm64.zip",
+            "bin": [
+                "m314ss.exe"
+            ],
+            "hash": "6c662a14c58ef4a4eccfdf1c678fd6d2f40cb05ee411995e1c287c1d48385163"
+        }
+    },
+    "homepage": "https://m314.dev",
+    "license": "MIT",
+    "description": "Check a subtitle belongs to a video by its audio, and sync it",
+    "depends": [
+        "ffmpeg"
+    ]
+}
